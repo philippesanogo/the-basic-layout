@@ -35,3 +35,10 @@ body {
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
+
+/* Add CSS for <p> tags within top-wrapper */
+.top-wrapper p
+{
+  opacity: 0.7;
+  margin-bottom:3px;
+}
