@@ -54,3 +54,24 @@ body {
   display: inline-block;
   opacity: 0.8;
 }
+
+/* Add CSS for signup */
+.signup
+{
+  background-color: #239b76;
+}
+
+
+/* Add CSS for facebook */
+.facebook
+{
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+
+/* Add CSS for twitter */
+.twitter
+{
+  background-color: #55acee;
+}
