@@ -25,6 +25,9 @@ body {
   color: white;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
+
+  /* Change the text-align property to center */
+  text-align: center;
 }
 
 /* Add CSS for <h1> tags within top-wrapper */
