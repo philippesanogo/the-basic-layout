@@ -75,3 +75,18 @@ body {
 {
   background-color: #55acee;
 }
+
+/* Add CSS for btn-wrapper */
+.btn-wrapper
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* Add CSS for <p> tags inside btn-wrapper */
+.btn-wrapper p
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
