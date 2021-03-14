@@ -115,3 +115,10 @@ header
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
 }
+
+/* Add CSS for logo */
+.logo
+{
+  width: 124px;
+  margin-top: 20px;
+}
