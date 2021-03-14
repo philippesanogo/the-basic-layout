@@ -101,3 +101,9 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+/* Change fab's margin-right to 5px */
+.fab
+{
+  margin-right: 5px;
+}
