@@ -188,8 +188,7 @@ header {
 }
 
 /* Add CSS for message-wrapper */
-.message-wrapper
-{
+.message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
@@ -209,8 +208,7 @@ header {
 }
 
 /* Add CSS for message when it's clicked */
-.message:active
-{
+.message:active {
   box-shadow: none;
   position: relative;
   top: 7px;
@@ -219,4 +217,15 @@ header {
 /* Add CSS for <h3> tags inside heading */
 .heading h3 {
   font-weight: normal;
+}
+
+/* Add CSS for <p> tags inside the <footer> */
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+/* Add CSS for <footer> tags */
+footer {
+  padding-top: 30px;
 }
