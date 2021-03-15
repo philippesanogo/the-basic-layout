@@ -172,19 +172,31 @@ header {
 }
 
 .lesson-icon p {
-    position: absolute;
-    top: 65px;
-    width: 100%;
-    color: #fff;
+  position: absolute;
+  top: 65px;
+  width: 100%;
+  color: #fff;
 }
 
-
 /* Add CSS for txt-contents */
-.txt-contents
-{
+.txt-contents {
   width: 80%;
   display: inline-block;
   margin-top: 20px;
   font-size: 15px;
   color: #b3aeb5;
+}
+
+/* Add CSS for message */
+.message {
+  background-color: #5dca88;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* Add CSS for <h3> tags inside heading */
+.heading h3 {
+  font-weight: normal;
 }
