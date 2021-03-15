@@ -164,3 +164,9 @@ header {
   font-weight: normal;
 }
 
+/* Add CSS for lesson */
+.lesson
+{
+  float: left;
+  width: 25%;
+}
