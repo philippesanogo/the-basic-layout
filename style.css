@@ -1,15 +1,14 @@
 body {
-    margin: 0;
-    font-family: "Lucida Grande";
-  }
-  
-  a {
-    text-decoration: none;
-  }
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
 
 /* Add CSS for container */
-.container
-{
+.container {
   width: 1170px;
   padding-left: 15px;
   padding-right: 15px;
@@ -18,8 +17,7 @@ body {
 }
 
 /* Add CSS for top-wrapper */
-.top-wrapper
-{
+.top-wrapper {
   padding-top: 180px;
   padding-bottom: 100px;
   color: white;
@@ -31,16 +29,14 @@ body {
 }
 
 /* Add CSS for <h1> tags within top-wrapper */
-.top-wrapper h1
-{
+.top-wrapper h1 {
   opacity: 0.7;
   font-size: 55px;
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
 
-.top-wrapper h2
-{
+.top-wrapper h2 {
   opacity: 0.7;
   font-size: 35px;
   letter-spacing: 5px;
@@ -48,15 +44,13 @@ body {
 }
 
 /* Add CSS for <p> tags within top-wrapper */
-.top-wrapper p
-{
+.top-wrapper p {
   opacity: 0.9;
   margin-bottom: 3px;
 }
 
 /* Add CSS for btn */
-.btn
-{
+.btn {
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 24px;
@@ -64,97 +58,83 @@ body {
   color: white;
   display: inline-block;
   opacity: 0.8;
-   /* Change the border-radius to 4px */
-   border-radius: 4px;
+  /* Change the border-radius to 4px */
+  border-radius: 4px;
 }
 
 /* Add CSS for btn on hover */
-.btn:hover
-{
+.btn:hover {
   opacity: 1;
 }
 
 /* Add CSS for signup */
-.signup
-{
+.signup {
   background-color: #239b76;
 }
 
-
 /* Add CSS for facebook */
-.facebook
-{
+.facebook {
   background-color: #3b5998;
   margin-right: 10px;
 }
 
-
 /* Add CSS for twitter */
-.twitter
-{
+.twitter {
   background-color: #55acee;
 }
 
 /* Add CSS for btn-wrapper */
-.btn-wrapper
-{
+.btn-wrapper {
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-
 /* Add CSS for <p> tags inside btn-wrapper */
-.btn-wrapper p
-{
+.btn-wrapper p {
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 /* Change fab's margin-right to 5px */
-.fab
-{
+.fab {
   margin-right: 5px;
 }
 
 /* Add CSS for <header> tags */
-header
-{
+header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
 }
 
 /* Add CSS for logo */
-.logo
-{
-  width: 124px;
-  margin-top: 20px;
+.logo {
+  line-height: 64px;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1.2rem;
 }
 
 /* Add CSS for header-left */
-.header-left
-{
+.header-left {
   float: left;
 }
 
 /* Add CSS for header-right */
-.header-right
-{
+.header-right {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
   /* Change the transition property */
-  transition: all .5s;
+  transition: all 0.5s;
 }
 
 /* Add CSS for header-right on hover */
-.header-right:hover
-{
+.header-right:hover {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
 /* Add CSS for <a> tags inside header-right */
-.header-right a
-{
+.header-right a {
   line-height: 65px;
   padding: 0 25px;
   color: white;
