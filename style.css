@@ -177,3 +177,14 @@ header {
     width: 100%;
     color: #fff;
 }
+
+
+/* Add CSS for txt-contents */
+.txt-contents
+{
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
