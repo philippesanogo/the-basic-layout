@@ -134,10 +134,21 @@ header
 {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
+  /* Change the transition property */
+  transition: all .5s;
 }
 
 /* Add CSS for header-right on hover */
 .header-right:hover
 {
   background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Add CSS for <a> tags inside header-right */
+.header-right a
+{
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
 }
