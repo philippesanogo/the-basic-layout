@@ -150,12 +150,14 @@ header {
 
 /* Add CSS for lesson-wrapper */
 .lesson-wrapper {
-  height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
   text-align: center;
 }
 
+.clear {
+  clear: left;
+}
 /* Add CSS for heading */
 .heading {
   padding-top: 60px;
