@@ -141,6 +141,16 @@ header {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
+/* Add CSS for menu-icon */
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  /* Change the display property to none */
+  display: none;
+}
+
 /* Add CSS for <a> tags inside header-right */
 .header-right a {
   line-height: 65px;

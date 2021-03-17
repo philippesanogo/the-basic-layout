@@ -66,4 +66,14 @@
     font-size: 14px;
     line-height: 20px;
   }
+
+  /* Add CSS for header-right */
+  .header-right {
+    display: none;
+  }
+  
+  /* Add CSS for menu-icon */
+  .menu-icon {
+    display: block;
+  }
 }
