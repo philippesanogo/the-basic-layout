@@ -20,4 +20,24 @@
   footer {
     text-align: center;
   }
+
+  .btn {
+    width: 90%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .btn-wrapper p {
+    text-align: center;
+  }
+
+  .top-wrapper {
+    text-align: left;
+    padding-top: 130px;
+  }
 }
